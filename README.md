@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm currently studying Tecnicatura Universitaria En Programación at UTN (Universidad tecnológica Nacional)<br>📖 I'm currently learning: Astro, JS, C++.<br>🎂 18yo.
+👨‍🎓 I'm currently studying Tecnicatura Universitaria En Programación at UTN (Universidad tecnológica Nacional)<br>📖 I'm currently learning: React, Node.Js, C++.<br>🎂 18yo.
 
 
 ## 🌐 Socials:
